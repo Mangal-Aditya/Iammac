@@ -1,2 +1,2 @@
 # Iammac
-A Programmer's Portfolio Website
+A Programmer's work
